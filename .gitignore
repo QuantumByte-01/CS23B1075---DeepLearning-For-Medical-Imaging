@@ -1,3 +1,7 @@
-# Dataset files
-lgg-mri-segmentation/
-lgg-mri-segmentation.zip
+# Ignore everything
+*
+
+# Except notebooks and readme
+!*.ipynb
+!readme.md
+!.gitignore
